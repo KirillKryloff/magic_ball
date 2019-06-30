@@ -1,4 +1,4 @@
-**Magic ball**
+# Magic ball
 
 Программа написана на языке Ruby. Реализует поведение игрушки волшебный шар. https://ru.wikipedia.org/wiki/Magic_8_ball
 
